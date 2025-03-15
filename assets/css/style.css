@@ -697,7 +697,8 @@ p {
 }
 
 .work-experiance-card .work-experiance-slider li .info .icon img {
-  width: 20px;
+  /* width: 20px; */
+  width: 24px;
 }
 
 .work-experiance-card .work-experiance-slider li .info .text .title {

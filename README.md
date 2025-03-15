@@ -53,9 +53,9 @@ Feel free to modify the content, colors, and layout to match your personal brand
 ## 🤝 Connect With Me
 
 - **Portfolio:** [Your Website](#)
-- **LinkedIn:** [Your LinkedIn](#)
-- **GitHub:** [Your GitHub](#)
-- **Email:** your-email@example.com
+- **LinkedIn:** [https://www.linkedin.com/in/krushangrathod](#)
+- **GitHub:** [https://github.com/RK8998](#)
+- **Email:** kushangrathod5@gmail.com
 
 ---
 

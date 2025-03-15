@@ -334,8 +334,7 @@
                   <div class="contact-area">
                     <div class="leave-comments-area">
                       <div class="comments-box">
-                        <form id="contact-form" action="https://marveltheme.com/tf/html/bentofolio-html/assets/mail.php"
-                          method="POST">
+                        <form id="contact-form" action="" method="POST">
                           <div class="row gx-3">
                             <div class="col-md-6">
                               <div class="mb-4">
@@ -353,12 +352,19 @@
                             </div>
                             <div class="col-md-6">
                               <div class="mb-4">
+                                <label class="form-label">Company Name</label>
+                                <input name="subject" required type="text" class="form-control shadow-none"
+                                  placeholder="Enter company name">
+                              </div>
+                            </div>
+                            <div class="col-md-6">
+                              <div class="mb-4">
                                 <label class="form-label">Subject</label>
                                 <input name="subject" required type="text" class="form-control shadow-none"
                                   placeholder="Subject">
                               </div>
                             </div>
-                            <div class="col-md-6">
+                            <!-- <div class="col-md-6">
                               <div class="mb-4">
                                 <label class="form-label">Budget</label>
                                 <select name="budget" required class="form-select shadow-none">
@@ -369,10 +375,10 @@
                                   <option value="$20000">$20000+</option>
                                 </select>
                               </div>
-                            </div>
+                            </div> -->
                             <div class="col-md-12">
                               <div class="mb-4">
-                                <label class="form-label">Comment</label>
+                                <label class="form-label">Message</label>
                                 <textarea name="message" class="form-control shadow-none" rows="4"
                                   placeholder="Type details about your inquiry"></textarea>
                               </div>
