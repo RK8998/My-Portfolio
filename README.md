@@ -23,26 +23,28 @@ Welcome to my personal portfolio! This project showcases my expertise as a **Rea
 
 ## 📂 Installation & Setup
 
-1. Clone the repository:
+1. Clone or Download the Repository:
+
    ```sh
    git clone https://github.com/your-username/your-portfolio.git
    ```
-2. Navigate to the project folder:
-   ```sh
-   cd your-portfolio
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Run the development server:
-   ```sh
-   npm run dev
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
+
+   Or simply **download the ZIP file** from GitHub and extract it.
+
+2. Open in a Browser:
+
+- Navigate to the project folder.
+- Open the `index.html` file in your browser.
+
+3. (Optional) Use a Local Server:
+   If you want to test with a local server:
+
+- Open the project folder in **VS Code** (or any code editor).
+- Use the **Live Server** extension or run:
+  ```sh
+  npx serve
+  ```
+- Then, open the provided local URL in your browser.
 
 ## 🎨 Customization
 
@@ -58,3 +60,7 @@ Feel free to modify the content, colors, and layout to match your personal brand
 ---
 
 ⭐ If you like this project, please give it a **star** on GitHub!
+
+```
+
+```
