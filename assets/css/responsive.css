@@ -329,6 +329,10 @@
   .portfolio-details-area .prev-and-next-btn {
     column-gap: 16px;
   }
+
+  .responsive-profile-card {
+    display: none;
+  }
 }
 
 @media (max-width: 767.98px) {

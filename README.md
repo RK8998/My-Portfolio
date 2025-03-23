@@ -60,7 +60,3 @@ Feel free to modify the content, colors, and layout to match your personal brand
 ---
 
 ⭐ If you like this project, please give it a **star** on GitHub!
-
-```
-
-```
