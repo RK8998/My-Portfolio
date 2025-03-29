@@ -174,7 +174,8 @@
   }
 
   .profile-card .image {
-    aspect-ratio: 6 / 5;
+    /* aspect-ratio: 6 / 5; */
+    aspect-ratio: 6 / 6;
   }
 
   .profile-card .image img {
