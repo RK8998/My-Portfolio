@@ -214,6 +214,10 @@
     order: 2;
   }
 
+  .content-box-card .top-info table {
+    order: 2;
+  }
+
   .content-box-card .top-info .text {
     max-width: unset;
   }
